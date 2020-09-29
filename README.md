@@ -1,1 +1,1 @@
-A Calculator made with vanilla javascript 
+A calculator made with vanilla javascript 
